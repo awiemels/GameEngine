@@ -1,0 +1,18 @@
+The idea behind the game is that you have disturbed a grave 
+and triggered the wrath of a ghost, the ghost tries to approach you 
+to posess you. You have a flashlight that can defend against the ghost
+but the flashlight has limited power.
+
+I made the game in pycharm using pygame. To run the program, 
+you simply need to open a new pycharm project put the main file 
+and pngs into the pycharm project. Make sure pygame is installed 
+than it is included in the interpreter under settings for the project
+and run the program
+
+The program dependencies are pygame as the game engine is coded using
+that library, python math library as the distance function used to test
+for collisions requires the square root function from math. Also, the
+pngs files are needed to actually show the sprites.
+
+
+  
